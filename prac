@@ -1,0 +1,29 @@
+﻿using System;
+
+namespace prac
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Checking");
+                string Ammount = Console.ReadLine();
+            int[] function = { 550, 660, 434 };
+            int i = 0;
+            while (i < function.Length)
+                Console.WriteLine(function[i]);
+            i++;
+
+            Console.WriteLine("/////////////////////////////////////");
+            int output = 
+
+
+         
+            
+        }
+    }
+
+
+
+
+}
